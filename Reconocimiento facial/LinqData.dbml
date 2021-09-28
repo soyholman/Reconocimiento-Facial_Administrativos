@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Faces" Class="LinqDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-M4KLV1U\HOL;Initial Catalog=Faces;Integrated Security=True" SettingsObjectName="Reconocimiento_facial.Properties.Settings" SettingsPropertyName="FacesConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Admin" Member="Admin">
+    <Type Name="Admin">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[User]" Member="User" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="contrasena" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UserFaces" Member="UserFaces">
+    <Type Name="UserFaces">
+      <Column Name="IdImage" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Face" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="id_docente" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Docentes_UserFaces" Member="Docentes" ThisKey="id_docente" OtherKey="id_docente" Type="Docentes" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Docentes_UserFaces1" Member="Docentes1" ThisKey="id_docente" OtherKey="id_docente" Type="Docentes" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.asistencia" Member="asistencia">
+    <Type Name="asistencia">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FechaS" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="FechaE" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="id_docente" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_estado" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="asistencia_Justificacion" Member="Justificacion" ThisKey="Id" OtherKey="id_asistencia" Type="Justificacion" />
+      <Association Name="Docentes_asistencia" Member="Docentes" ThisKey="id_docente" OtherKey="id_docente" Type="Docentes" IsForeignKey="true" />
+      <Association Name="Estado_asistencia" Member="Estado" ThisKey="id_estado" OtherKey="Id" Type="Estado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Docentes" Member="Docentes">
+    <Type Name="Docentes">
+      <Column Name="id_docente" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Identificador" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+      <Association Name="Docentes_UserFaces" Member="UserFaces" ThisKey="id_docente" OtherKey="id_docente" Type="UserFaces" />
+      <Association Name="Docentes_UserFaces1" Member="UserFaces1" ThisKey="id_docente" OtherKey="id_docente" Type="UserFaces" />
+      <Association Name="Docentes_asistencia" Member="asistencia" ThisKey="id_docente" OtherKey="id_docente" Type="asistencia" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Estado" Member="Estado">
+    <Type Name="Estado">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Estado" Member="Estado1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Estado_asistencia" Member="asistencia" ThisKey="Id" OtherKey="id_estado" Type="asistencia" />
+    </Type>
+  </Table>
+  <Table Name="dbo.fecha" Member="fecha">
+    <Type Name="fecha">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="dy" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Justificacion" Member="Justificacion">
+    <Type Name="Justificacion">
+      <Column Name="id_justificar" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_asistencia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Razon" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="asistencia_Justificacion" Member="asistencia" ThisKey="id_asistencia" OtherKey="Id" Type="asistencia" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Asistencia View]" Member="Asistencia_View">
+    <Type Name="Asistencia_View">
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IdImage" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Face" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="id_docente" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Info_docente" Member="Info_docente">
+    <Type Name="Info_docente">
+      <Column Name="Docente" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="id_docente" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.insertar_asignatura" Method="insertar_asignatura" IsComposable="true">
+    <Parameter Name="asignatura" Type="System.String" DbType="NVarChar(50)" />
+    <Return Type="object" />
+  </Function>
+  <Function Name="dbo.insertar_docente" Method="insertar_docente">
+    <Parameter Name="nombre" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="identificador" Type="System.String" DbType="NVarChar(80)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.procedimiento" Method="procedimiento">
+    <Parameter Name="iddocente" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="dia" Type="System.String" DbType="NVarChar(10)" />
+    <ElementType Name="procedimientoResult">
+      <Column Name="id_docente" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IdImage" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Face" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.procedimiento2" Method="procedimiento2">
+    <Parameter Name="iddocente" Type="System.Int32" DbType="Int" />
+    <Parameter Name="fecha" Type="System.String" DbType="NVarChar(10)" />
+    <ElementType Name="procedimiento2Result">
+      <Column Name="IdImage" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Face" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" />
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FechaS" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="FechaE" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Identificador" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

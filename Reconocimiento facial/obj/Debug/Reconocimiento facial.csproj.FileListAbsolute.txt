@@ -1,0 +1,1497 @@
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\RdlCompile.cache
+C:\Users\Holman\Desktop\Reconocimiento facial\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\EntityFramework.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\SplashScreen.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\stdole.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\EntityFramework.xml
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojAssemblyReference.cache
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.config
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CoreCompileInputs.cache
+D:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CopyComplete
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\RdlCompile.cache
+F:\Propuestas y documentación\Reconocimiento facial\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\EntityFramework.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\SplashScreen.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\stdole.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\EntityFramework.xml
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\RdlCompile.cache
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+D:\Propuestas y documentación\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\DataBase.mdf
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\RdlCompile.cache
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Gabriel\Desktop\Reconocimiento facial 1 - copia\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.cache
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+F:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.cache
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Desktop\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojAssemblyReference.cache
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CoreCompileInputs.cache
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CopyComplete
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.cache
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CopyComplete
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Program Files (x86)\IA\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.AssemblyReference.cache
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.xml
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.xml
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.xml
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.xml
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.xml
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.cache
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Downloads\Actuallity\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.xml
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.xml
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.xml
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.xml
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.xml
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.cache
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Downloads\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojAssemblyReference.cache
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.cache
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CoreCompileInputs.cache
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+D:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CopyComplete
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Framework.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.xml
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.xml
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.xml
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.xml
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.xml
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.cache
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+G:\Mejora Schedule\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojAssemblyReference.cache
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.cache
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CoreCompileInputs.cache
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+D:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CopyComplete
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase.mdf
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\DataBase_log.ldf
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Framework.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.xml
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.xml
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.xml
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.xml
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.xml
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.cache
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+G:\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\EnvDTE80.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj80.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\VSLangProj2.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Clases.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Horarios.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.cache
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\RdlCompile.compiled
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento facial 1 - Portable\Reconocimiento facial\obj\Debug\Reconocimiento facial.csprojResolveAssemblyReference.cache
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Reconocimiento facial.application
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\EntityFramework.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\SplashScreen.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\EnvDTE.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\EnvDTE80.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\stdole.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\VSLangProj.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\VSLangProj80.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\VSLangProj2.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\EntityFramework.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Asistencias.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Docente.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Identification.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.IA.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Ingreso.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reportes.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Menu.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.GenerateResource.Cache
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.manifest
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.application
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.AssemblyReference.cache
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.config
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CoreCompileInputs.cache
+C:\Users\Holman\Desktop\2.0\IA 2.0\Reconocimiento-Administrativos\Reconocimiento facial\obj\Debug\Reconocimiento facial.csproj.CopyComplete
