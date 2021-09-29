@@ -142,7 +142,7 @@
             // iddocenteDataGridViewTextBoxColumn
             // 
             this.iddocenteDataGridViewTextBoxColumn.DataPropertyName = "id_docente";
-            this.iddocenteDataGridViewTextBoxColumn.HeaderText = "id_docente";
+            this.iddocenteDataGridViewTextBoxColumn.HeaderText = "id_Trabajador";
             this.iddocenteDataGridViewTextBoxColumn.Name = "iddocenteDataGridViewTextBoxColumn";
             this.iddocenteDataGridViewTextBoxColumn.ReadOnly = true;
             // 
@@ -216,7 +216,7 @@
             this.btnback.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnback.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnback.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnback.Location = new System.Drawing.Point(493, 8);
+            this.btnback.Location = new System.Drawing.Point(479, 8);
             this.btnback.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnback.Name = "btnback";
             this.btnback.Size = new System.Drawing.Size(19, 17);
@@ -281,7 +281,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(574, 732);
+            this.ClientSize = new System.Drawing.Size(560, 732);
             this.Controls.Add(this.txtsearch);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btncancelar);
@@ -326,13 +326,13 @@
         private DataSetConjunt dataSetConjunt;
         private System.Windows.Forms.BindingSource docentesBindingSource;
         private DataSetConjuntTableAdapters.DocentesTableAdapter docentesTableAdapter;
-        private System.Windows.Forms.DataGridViewTextBoxColumn iddocenteDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn nombreDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn identificadorDataGridViewTextBoxColumn;
         private System.Windows.Forms.Button btncancelar;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtsearch;
         private System.Windows.Forms.BindingSource DataSearch;
         private DataSetConjuntTableAdapters.searchdocenteTableAdapter searchdocenteTableAdapter;
+        private System.Windows.Forms.DataGridViewTextBoxColumn iddocenteDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nombreDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn identificadorDataGridViewTextBoxColumn;
     }
 }

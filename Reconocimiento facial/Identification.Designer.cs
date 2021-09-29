@@ -46,10 +46,8 @@
             this.lblid = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.labelDay = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.lblclase = new System.Windows.Forms.Label();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.lblcommd = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.imageBox1)).BeginInit();
@@ -230,7 +228,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(649, 6);
+            this.pictureBox1.Location = new System.Drawing.Point(565, 6);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(67, 58);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -248,18 +246,6 @@
             this.labelDay.TabIndex = 66;
             this.labelDay.Text = "label6";
             this.labelDay.Click += new System.EventHandler(this.labelDay_Click);
-            // 
-            // label6
-            // 
-            this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(681, 454);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(35, 13);
-            this.label6.TabIndex = 69;
-            this.label6.Text = "label6";
-            this.label6.Click += new System.EventHandler(this.label6_Click_1);
             // 
             // groupBox2
             // 
@@ -282,34 +268,21 @@
             this.panel1.Size = new System.Drawing.Size(253, 113);
             this.panel1.TabIndex = 71;
             // 
-            // lblclase
-            // 
-            this.lblclase.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left)));
-            this.lblclase.AutoSize = true;
-            this.lblclase.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.lblclase.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F);
-            this.lblclase.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.lblclase.Location = new System.Drawing.Point(16, 70);
-            this.lblclase.Name = "lblclase";
-            this.lblclase.Size = new System.Drawing.Size(50, 18);
-            this.lblclase.TabIndex = 72;
-            this.lblclase.Text = "Clase:";
-            this.lblclase.Click += new System.EventHandler(this.lblclase_Click);
-            // 
             // timer2
             // 
-            this.timer2.Interval = 5000;
+            this.timer2.Interval = 3000;
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
             // 
             // lblcommd
             // 
             this.lblcommd.AutoSize = true;
-            this.lblcommd.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.lblcommd.Location = new System.Drawing.Point(488, 38);
+            this.lblcommd.BackColor = System.Drawing.Color.Transparent;
+            this.lblcommd.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
+            this.lblcommd.Location = new System.Drawing.Point(15, 49);
             this.lblcommd.Name = "lblcommd";
-            this.lblcommd.Size = new System.Drawing.Size(0, 18);
+            this.lblcommd.Size = new System.Drawing.Size(11, 15);
             this.lblcommd.TabIndex = 73;
+            this.lblcommd.Text = "-";
             // 
             // Identification
             // 
@@ -317,10 +290,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(991, 484);
             this.Controls.Add(this.lblcommd);
-            this.Controls.Add(this.lblclase);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblid);
             this.Controls.Add(this.label1);
@@ -360,11 +331,9 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label labelDay;
         public System.Windows.Forms.TextBox txtcodigo;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Label lblclase;
         private System.Windows.Forms.Timer timer2;
         private System.Windows.Forms.Label lblcommd;
     }

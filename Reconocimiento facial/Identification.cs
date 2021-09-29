@@ -78,7 +78,7 @@ namespace Reconocimiento_facial
             label1.Text = string.Empty;
             lblid.Text = string.Empty;
             lblcommd.Text = "";
-            lblclase.Text = "";
+       
             lblactive.Text = string.Empty;
             button4.Text = "Detectar";
         }
@@ -174,7 +174,7 @@ namespace Reconocimiento_facial
                 case "Desconectar":
                     Desconectar();
                     lblcommd.Text = "";
-                    lblclase.Text = "";
+                  
                     break;
             }
 
@@ -350,7 +350,7 @@ namespace Reconocimiento_facial
         {
 
 
-
+            lblid.Text = "";
 
             lblactive.Text = "0";
             NamePersons.Add("");
@@ -385,8 +385,8 @@ namespace Reconocimiento_facial
 
                         //Clase Eligen para reconocimiento de rostro
 
-                        EigenObjectRecognizer recognizer = new EigenObjectRecognizer(trainingImages.ToArray(), labels.ToArray(), 3000, ref termCrit);
-                        EigenObjectRecognizer recognize2 = new EigenObjectRecognizer(trainingImages.ToArray(), labeliden.ToArray(), 3000, ref termCrit);
+                        EigenObjectRecognizer recognizer = new EigenObjectRecognizer(trainingImages.ToArray(), labels.ToArray(),2000, ref termCrit);
+                        EigenObjectRecognizer recognize2 = new EigenObjectRecognizer(trainingImages.ToArray(), labeliden.ToArray(), 2000, ref termCrit);
                         var fa = new Image<Gray, byte>[trainingImages.Count]; //currentFrame.Convert<Bitmap>();
 
 
@@ -410,7 +410,7 @@ namespace Reconocimiento_facial
                             label1.Text = string.Empty;
                             lblid.Text = string.Empty;
                             lblcommd.Text = "";
-                            lblclase.Text = string.Empty;
+                           
                             lblactive.Text = string.Empty;
                             lblid.Text="";
                             timer2.Stop();
@@ -439,8 +439,7 @@ namespace Reconocimiento_facial
                             {
 
 
-                                lblclase.Text = "NO TIENE CLASE ASIGNADA A ESTA HORA:";
-
+                              
 
                             }
 
@@ -489,7 +488,7 @@ namespace Reconocimiento_facial
             this.labelDay.Text = DateTime.Now.ToString("dd/MM/yyy");
             DateTime day = DateTime.Parse(this.labelDay.Text);
             byte days = (byte)day.DayOfWeek;
-            label6.Text = days.ToString();
+          
         }
 
         private void label4_Click_1(object sender, EventArgs e)
@@ -629,7 +628,7 @@ namespace Reconocimiento_facial
                                 c.Close();
 
                                 lblcommd.ForeColor = Color.Blue;
-                                lblcommd.Text = "Usted:" + name + "_ha registrado salida";
+                                lblcommd.Text = "Usted:" + label1.Text + "_ha registrado salida";
                                 sonido.Stream = Properties.Resources.Sound;
                                 sonido.Play();
                                 timer2.Stop();
@@ -656,8 +655,8 @@ namespace Reconocimiento_facial
                                 c.Close();
 
                                 lblcommd.Enabled = Visible;
-                                lblcommd.ForeColor = Color.Indigo;
-                                lblcommd.Text = "Usted:" + name + "_ha registrado salida";
+                                lblcommd.ForeColor = Color.Blue;
+                                lblcommd.Text = "Usted:" + label1.Text + "_ha registrado salida";
                                 sonido.Stream = Properties.Resources.Sound;
                                 sonido.Play();
                                 timer2.Stop();

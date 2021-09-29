@@ -294,6 +294,7 @@
             this.Upload.TabIndex = 58;
             this.Upload.Text = "Cargar Rostro";
             this.Upload.UseVisualStyleBackColor = false;
+            this.Upload.Visible = false;
             this.Upload.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // openFileDialog1

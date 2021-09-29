@@ -129,5 +129,11 @@ namespace Reconocimiento_facial
             new Asistencias().Show();
             this.Hide();
         }
+
+        private void btnDocentes_Click_1(object sender, EventArgs e)
+        {
+            new Docente().Show();
+            this.Hide();
+        }
     }
 }

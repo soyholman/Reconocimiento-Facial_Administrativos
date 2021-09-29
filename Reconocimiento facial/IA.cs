@@ -93,9 +93,7 @@ namespace Reconocimiento_facial
 
         private void btn_agregar_Click(object sender, EventArgs e)
         {                
-            grabber = new Capture();
-            grabber.QueryFrame();
-
+           
 
             //DialogResult Dialog = MessageBox.Show("Desea registrar este Usuario?", "Añadir", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
             //    if (Dialog.Equals(DialogResult.OK))
@@ -183,11 +181,13 @@ namespace Reconocimiento_facial
                     dbc.ConvertImgToBinary(int.Parse(comboBox1.SelectedValue.ToString()), imageBox2.Image.Bitmap);
 
                     MessageBox.Show("Agregado correctamente", "Capturado", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    
-                        Application.Idle -= new EventHandler(FrameGrabber);//Detenemos el evento de captura
-                        grabber.Dispose();//Dejamos de usar la clase para capturar usar los dispositivos
-                        imageBoxFrameGrabber.ImageLocation = "img/1.png";//reiniciamos la imagen del control      
-                    }
+
+                    Application.Idle -= new EventHandler(FrameGrabber);//Detenemos el evento de captura
+                    grabber.Dispose();
+                    this.button1.Enabled = false;
+                    btn_detectar.Enabled = true;
+
+                }
                 else
                 {
 
@@ -200,6 +200,11 @@ namespace Reconocimiento_facial
             catch (Exception ex)
             {
                 MessageBox.Show("Por favor mire fijamente a la camara y evite moverse", "Ocurrio un error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                Application.Idle -= new EventHandler(FrameGrabber);//Detenemos el evento de captura
+                grabber.Dispose();
+                this.button1.Enabled = false;
+                btn_detectar.Enabled = true;
+
             }
 
 

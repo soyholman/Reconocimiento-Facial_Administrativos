@@ -1404,14 +1404,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Reconocimiento facial.exe" size="852992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Reconocimiento facial.exe" size="652800">
       <assemblyIdentity name="Reconocimiento facial" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vwqybN0vcX+v8OZgKAc+qSmpu/ZXmVNX3MxSi8SvBUE=</dsig:DigestValue>
+        <dsig:DigestValue>sowbPZPHUGGXgNgV/ZFrI+YoX1osyLrJsf6VVI1St38=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1517,13 +1517,13 @@
       <dsig:DigestValue>sgMdSeTtjDbf0PBFTT92NFxHjjjnokgyo+DudXynPyQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reconocimiento facial.exe.config" size="2572">
+  <file name="Reconocimiento facial.exe.config" size="2565">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oWX91FpiBhCPL8h1GVNOntHab05rcLp/gyizwtUl+Ss=</dsig:DigestValue>
+      <dsig:DigestValue>X4K6ZiwKOZ/XJjxVfVuuJxEAyFaHf9tPtyH66eV9rYY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
